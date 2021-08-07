@@ -55,7 +55,7 @@
         /* Dynamic function call */
         function sayHello(){
             echo "<br>Hello";
-        }
+        }   
         $function_holder = "sayHello";
         $function_holder();
     ?>
